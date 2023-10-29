@@ -2,7 +2,7 @@
 
 ## installation
 
-Use the package manager [pip] (https://pip.pypa.io/en/stable/) to install os
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install os
 
 ```bash 
 pip install os
@@ -34,4 +34,4 @@ print(files)
 
 ## Output
 
-![alt text](https://github.com/[sourovpal]/[python-scan-all-file-and-folder]/blob/[master]/screenshot_1.png?raw=true)
+![alt text](https://github.com/sourovpal/python-scan-all-file-and-folder/blob/master/screenshot_1.png?raw=true)
